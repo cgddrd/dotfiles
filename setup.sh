@@ -77,6 +77,7 @@ apps=(
   qlstephen
   suspicious-package
   visual-studio-code
+  obsidian
 )
 
 # Install apps to /Applications
